@@ -1,5 +1,10 @@
 # SokuKensakuW Changelog (release.public)
 
+## 1.3.1-release.public
+#### 変更点
+- アプリ内ブラウザーに閲覧履歴を実装
+- 設定画面のデザインを調整
+
 ## 1.3.0-release.public
 #### 変更点
 - アプリ内ブラウザーのウィンドウサイズを保存するように
