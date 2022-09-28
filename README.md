@@ -4,6 +4,9 @@
 <h2 align="center">SokuKensakuW</h2>
 <h4 align="center">即検索するやつ</h4>
 
+**新しいバージョンは[こちら](https://github.com/Milkeyyy/SearchLight-Releases) (今後はこっちが更新されます)**
+---
+
 #### 最新バージョン
 ![](https://img.shields.io/github/v/release/Milkeyyy/SokuKensakuW-Release?display_name=release&style=flat-square) ![](https://img.shields.io/github/v/tag/Milkeyyy/SokuKensakuW-Release?style=flat-square) ![](https://img.shields.io/github/release-date/Milkeyyy/SokuKensakuW-Release?style=flat-square)
 
