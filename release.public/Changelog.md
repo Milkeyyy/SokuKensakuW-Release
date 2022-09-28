@@ -1,5 +1,7 @@
 # 📜 SokuKensakuW Changelog (release.public)
 
+## このアプリは「[SearchLight](https://github.com/Milkeyyy/SearchLight-Releases)」に生まれ変わりました
+
 ## 🚀 1.3.2-release.public
 #### 🟢 追加
 - 検索時に、設定した検索エンジンとは別の検索エンジンへの変更を可能にするかの設定項目を実装 (ショートカットキーごとに設定可能)
